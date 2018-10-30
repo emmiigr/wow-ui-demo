@@ -1,0 +1,3 @@
+
+NugEnergyDB = {
+}

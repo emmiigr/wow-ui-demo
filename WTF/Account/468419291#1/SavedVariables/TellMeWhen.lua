@@ -1,0 +1,110 @@
+
+TellMeWhenDB = {
+	["profileKeys"] = {
+		["Smallforce - Talnivarr"] = "Smallforce - Talnivarr",
+	},
+	["global"] = {
+		["TextLayouts"] = {
+			["icon1"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+			},
+			["bar2"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+			},
+		},
+		["HelpSettings"] = {
+			["SCROLLBAR_DROPDOWN"] = false,
+			["SUG_FIRSTHELP"] = true,
+		},
+		["AllowCombatConfig"] = true,
+	},
+	["Version"] = 85403,
+	["profiles"] = {
+		["Smallforce - Talnivarr"] = {
+			["Locked"] = true,
+			["Version"] = 85403,
+			["Groups"] = {
+				{
+					["Icons"] = {
+						{
+							["ShowTimer"] = true,
+							["BuffOrDebuff"] = "HARMFUL",
+							["Unit"] = "target",
+							["OnlyMine"] = true,
+							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
+							["Name"] = "Vendetta",
+							["ManaCheck"] = true,
+							["States"] = {
+								{
+									["Alpha"] = 0.67,
+								}, -- [1]
+								{
+									["Alpha"] = 0.34,
+								}, -- [2]
+								{
+									["Alpha"] = 0.33,
+								}, -- [3]
+								{
+									["Alpha"] = 0.28,
+								}, -- [4]
+							},
+							["RangeCheck"] = true,
+							["ShowCBar"] = true,
+							["FakeHidden"] = true,
+							["Enabled"] = true,
+						}, -- [1]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
+							["Name"] = "Garrote",
+							["ManaCheck"] = true,
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+									["Alpha"] = 0.4,
+								}, -- [4]
+							},
+							["FakeHidden"] = true,
+							["Enabled"] = true,
+						}, -- [2]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [3]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [4]
+					},
+					["GUID"] = "TMW:group:1RrRZl3didXS",
+				}, -- [1]
+			},
+		},
+	},
+}

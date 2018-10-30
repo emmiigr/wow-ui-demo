@@ -1,0 +1,23 @@
+
+GoldSave = {
+	["Obay_Talnivarr::Alliance"] = {
+		["show"] = true,
+		["name"] = "Obay",
+		["gold"] = 6468,
+	},
+	["Mooke_Talnivarr::Alliance"] = {
+		["show"] = true,
+		["name"] = "Mooke",
+		["gold"] = 18557,
+	},
+	["Smallforce_Talnivarr::Alliance"] = {
+		["show"] = true,
+		["name"] = "Smallforce",
+		["gold"] = 127228203,
+	},
+	["Smallforce_Thunderlord::Alliance"] = {
+		["show"] = true,
+		["name"] = "Smallforce",
+		["gold"] = 1009,
+	},
+}

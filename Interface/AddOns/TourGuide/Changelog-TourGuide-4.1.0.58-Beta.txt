@@ -1,0 +1,16 @@
+tag 4.1.0.58-Beta
+262824b5a2335bd7bca1cda821baa55b06b1814e
+tekkub :bear:  <tekkub@gmail.com>
+2011-05-23 20:54:04 -0600
+
+Weekly build
+
+
+--------------------
+
+tekkub :bear: :
+	- Weekly build 4.1.0.58-Beta
+	- Update changelog for 4.1.0.58-Beta
+	- Updating TOC to 40100
+tekkub :bear: :
+	- Statusframe resize fix, closes #45

@@ -1,0 +1,16 @@
+
+MSBTProfiles_SavedVars = {
+	["profiles"] = {
+		["Default"] = {
+			["enableBlizzardHealing"] = false,
+			["creationVersion"] = "5.7.149",
+			["enableBlizzardDamage"] = false,
+		},
+	},
+}
+MSBT_SavedMedia = {
+	["fonts"] = {
+	},
+	["sounds"] = {
+	},
+}
